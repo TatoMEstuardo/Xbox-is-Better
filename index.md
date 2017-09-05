@@ -1,34 +1,15 @@
 ## Welcome to My Website
 
-You can use the [editor on GitHub](https://github.com/TatoMEstuardo/index.html/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Xbox is better!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Xbox offers you games that can be played on the PS4.
 
-### Markdown
+Xbox controllers feels more commfortable in your hands.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Xbox gives you free games.
 
-```markdown
-Syntax highlighted code block
+some xbox games from xbox 360 can be played on xbox one.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TatoMEstuardo/index.html/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
