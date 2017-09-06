@@ -7,7 +7,7 @@ Today i will tell you why Xbox is better!!!
 Xbox is better!
 
 
-Xbox offers you games that can be played on the PS4.
+Xbox offers you games that can't be played on the PS4.
 
 
 Xbox controllers feels more commfortable in your hands.
